@@ -24,6 +24,7 @@
 ehthumbs.db
 Thumbs.db
 
+<<<<<<< HEAD
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -195,3 +196,7 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+=======
+# env
+.env
+>>>>>>> origin/main
