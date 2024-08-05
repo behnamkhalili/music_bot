@@ -1,0 +1,2526 @@
+{
+ "name": "test_gap",
+ "type": "private_group",
+ "id": 4181556113,
+ "messages": [
+  {
+   "id": 597713,
+   "type": "service",
+   "date": "2024-08-10T21:44:44",
+   "date_unixtime": "1723313684",
+   "actor": "Sad bHnM",
+   "actor_id": "user108520581",
+   "action": "create_group",
+   "title": "test_gap",
+   "members": [
+    "Sad bHnM",
+    "fakyoos"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 597714,
+   "type": "message",
+   "date": "2024-08-10T21:44:58",
+   "date_unixtime": "1723313698",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 597715,
+   "type": "message",
+   "date": "2024-08-10T21:45:04",
+   "date_unixtime": "1723313704",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/start"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/start"
+    }
+   ]
+  },
+  {
+   "id": 597716,
+   "type": "message",
+   "date": "2024-08-10T21:45:04",
+   "date_unixtime": "1723313704",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "text": "I'm a bot, please talk to me!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm a bot, please talk to me!"
+    }
+   ]
+  },
+  {
+   "id": 597717,
+   "type": "message",
+   "date": "2024-08-10T21:45:08",
+   "date_unixtime": "1723313708",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 597718,
+   "type": "message",
+   "date": "2024-08-10T21:45:13",
+   "date_unixtime": "1723313713",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/echo"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/echo"
+    }
+   ]
+  },
+  {
+   "id": 597719,
+   "type": "message",
+   "date": "2024-08-10T21:45:13",
+   "date_unixtime": "1723313713",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "text": "Sorry, I didn't understand that command.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, I didn't understand that command."
+    }
+   ]
+  },
+  {
+   "id": 597720,
+   "type": "message",
+   "date": "2024-08-10T21:45:28",
+   "date_unixtime": "1723313728",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/caps"
+    },
+    " sl"
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/caps"
+    },
+    {
+     "type": "plain",
+     "text": " sl"
+    }
+   ]
+  },
+  {
+   "id": 597721,
+   "type": "message",
+   "date": "2024-08-10T21:45:28",
+   "date_unixtime": "1723313728",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "text": "SL",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "SL"
+    }
+   ]
+  },
+  {
+   "id": 597722,
+   "type": "message",
+   "date": "2024-08-10T21:45:46",
+   "date_unixtime": "1723313746",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/s"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/s"
+    }
+   ]
+  },
+  {
+   "id": 597723,
+   "type": "message",
+   "date": "2024-08-10T21:45:47",
+   "date_unixtime": "1723313747",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "text": "Sorry, I didn't understand that command.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, I didn't understand that command."
+    }
+   ]
+  },
+  {
+   "id": 597724,
+   "type": "message",
+   "date": "2024-08-10T21:45:48",
+   "date_unixtime": "1723313748",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": "s",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "s"
+    }
+   ]
+  },
+  {
+   "id": 597725,
+   "type": "message",
+   "date": "2024-08-10T21:45:50",
+   "date_unixtime": "1723313750",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": "sd,slmd",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "sd,slmd"
+    }
+   ]
+  },
+  {
+   "id": 597726,
+   "type": "message",
+   "date": "2024-08-10T21:46:39",
+   "date_unixtime": "1723313799",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/start"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/start"
+    }
+   ]
+  },
+  {
+   "id": 597727,
+   "type": "message",
+   "date": "2024-08-10T21:46:40",
+   "date_unixtime": "1723313800",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "text": "I'm a bot, please talk to me!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm a bot, please talk to me!"
+    }
+   ]
+  },
+  {
+   "id": 597729,
+   "type": "message",
+   "date": "2024-08-10T22:05:34",
+   "date_unixtime": "1723314934",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": "sssslllm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "sssslllm"
+    }
+   ]
+  },
+  {
+   "id": 597982,
+   "type": "message",
+   "date": "2024-08-11T21:15:50",
+   "date_unixtime": "1723398350",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": "heh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "heh"
+    }
+   ]
+  },
+  {
+   "id": 597983,
+   "type": "message",
+   "date": "2024-08-11T21:27:33",
+   "date_unixtime": "1723399053",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": "heh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "heh"
+    }
+   ]
+  },
+  {
+   "id": 597984,
+   "type": "message",
+   "date": "2024-08-11T21:36:14",
+   "date_unixtime": "1723399574",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 597985,
+   "type": "message",
+   "date": "2024-08-11T21:37:31",
+   "date_unixtime": "1723399651",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 597986,
+   "type": "message",
+   "date": "2024-08-11T21:37:41",
+   "date_unixtime": "1723399661",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 597987,
+   "type": "message",
+   "date": "2024-08-11T21:38:09",
+   "date_unixtime": "1723399689",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 597988,
+   "type": "message",
+   "date": "2024-08-11T21:38:23",
+   "date_unixtime": "1723399703",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 597989,
+   "type": "message",
+   "date": "2024-08-11T21:40:18",
+   "date_unixtime": "1723399818",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 597990,
+   "type": "message",
+   "date": "2024-08-11T21:40:18",
+   "date_unixtime": "1723399818",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598044,
+   "type": "message",
+   "date": "2024-08-11T21:48:44",
+   "date_unixtime": "1723400324",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598045,
+   "type": "message",
+   "date": "2024-08-11T21:48:44",
+   "date_unixtime": "1723400324",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598046,
+   "type": "message",
+   "date": "2024-08-11T21:48:44",
+   "date_unixtime": "1723400324",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598079,
+   "type": "message",
+   "date": "2024-08-11T21:56:50",
+   "date_unixtime": "1723400810",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598080,
+   "type": "message",
+   "date": "2024-08-11T21:56:50",
+   "date_unixtime": "1723400810",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598081,
+   "type": "message",
+   "date": "2024-08-11T21:56:50",
+   "date_unixtime": "1723400810",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598082,
+   "type": "message",
+   "date": "2024-08-11T21:57:44",
+   "date_unixtime": "1723400864",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598083,
+   "type": "message",
+   "date": "2024-08-11T21:57:44",
+   "date_unixtime": "1723400864",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598084,
+   "type": "message",
+   "date": "2024-08-11T21:57:44",
+   "date_unixtime": "1723400864",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598094,
+   "type": "message",
+   "date": "2024-08-11T22:00:14",
+   "date_unixtime": "1723401014",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598095,
+   "type": "message",
+   "date": "2024-08-11T22:00:14",
+   "date_unixtime": "1723401014",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598096,
+   "type": "message",
+   "date": "2024-08-11T22:00:14",
+   "date_unixtime": "1723401014",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598097,
+   "type": "message",
+   "date": "2024-08-11T22:00:25",
+   "date_unixtime": "1723401025",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598098,
+   "type": "message",
+   "date": "2024-08-11T22:00:25",
+   "date_unixtime": "1723401025",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598099,
+   "type": "message",
+   "date": "2024-08-11T22:00:25",
+   "date_unixtime": "1723401025",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598100,
+   "type": "message",
+   "date": "2024-08-11T22:00:56",
+   "date_unixtime": "1723401056",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598101,
+   "type": "message",
+   "date": "2024-08-11T22:00:56",
+   "date_unixtime": "1723401056",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598102,
+   "type": "message",
+   "date": "2024-08-11T22:00:56",
+   "date_unixtime": "1723401056",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598128,
+   "type": "message",
+   "date": "2024-08-11T22:20:26",
+   "date_unixtime": "1723402226",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598129,
+   "type": "message",
+   "date": "2024-08-11T22:20:26",
+   "date_unixtime": "1723402226",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598130,
+   "type": "message",
+   "date": "2024-08-11T22:20:26",
+   "date_unixtime": "1723402226",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598131,
+   "type": "message",
+   "date": "2024-08-11T22:20:37",
+   "date_unixtime": "1723402237",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598132,
+   "type": "message",
+   "date": "2024-08-11T22:20:37",
+   "date_unixtime": "1723402237",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598133,
+   "type": "message",
+   "date": "2024-08-11T22:20:37",
+   "date_unixtime": "1723402237",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598134,
+   "type": "message",
+   "date": "2024-08-11T22:21:18",
+   "date_unixtime": "1723402278",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598135,
+   "type": "message",
+   "date": "2024-08-11T22:21:18",
+   "date_unixtime": "1723402278",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598136,
+   "type": "message",
+   "date": "2024-08-11T22:21:18",
+   "date_unixtime": "1723402278",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598137,
+   "type": "message",
+   "date": "2024-08-11T22:22:22",
+   "date_unixtime": "1723402342",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598138,
+   "type": "message",
+   "date": "2024-08-11T22:22:22",
+   "date_unixtime": "1723402342",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598139,
+   "type": "message",
+   "date": "2024-08-11T22:22:22",
+   "date_unixtime": "1723402342",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598142,
+   "type": "message",
+   "date": "2024-08-11T22:24:01",
+   "date_unixtime": "1723402441",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598143,
+   "type": "message",
+   "date": "2024-08-11T22:24:01",
+   "date_unixtime": "1723402441",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598144,
+   "type": "message",
+   "date": "2024-08-11T22:24:01",
+   "date_unixtime": "1723402441",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598483,
+   "type": "message",
+   "date": "2024-08-12T21:45:08",
+   "date_unixtime": "1723486508",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598484,
+   "type": "message",
+   "date": "2024-08-12T21:45:08",
+   "date_unixtime": "1723486508",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598485,
+   "type": "message",
+   "date": "2024-08-12T21:45:08",
+   "date_unixtime": "1723486508",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598487,
+   "type": "message",
+   "date": "2024-08-12T21:45:50",
+   "date_unixtime": "1723486550",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598488,
+   "type": "message",
+   "date": "2024-08-12T21:45:50",
+   "date_unixtime": "1723486550",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598489,
+   "type": "message",
+   "date": "2024-08-12T21:45:50",
+   "date_unixtime": "1723486550",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598491,
+   "type": "message",
+   "date": "2024-08-12T21:46:58",
+   "date_unixtime": "1723486618",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/start"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/start"
+    }
+   ]
+  },
+  {
+   "id": 598492,
+   "type": "message",
+   "date": "2024-08-12T21:47:03",
+   "date_unixtime": "1723486623",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598493,
+   "type": "message",
+   "date": "2024-08-12T21:47:03",
+   "date_unixtime": "1723486623",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598494,
+   "type": "message",
+   "date": "2024-08-12T21:47:03",
+   "date_unixtime": "1723486623",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598496,
+   "type": "message",
+   "date": "2024-08-12T21:47:21",
+   "date_unixtime": "1723486641",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598497,
+   "type": "message",
+   "date": "2024-08-12T21:47:21",
+   "date_unixtime": "1723486641",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598498,
+   "type": "message",
+   "date": "2024-08-12T21:47:21",
+   "date_unixtime": "1723486641",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598500,
+   "type": "message",
+   "date": "2024-08-12T21:47:37",
+   "date_unixtime": "1723486657",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598501,
+   "type": "message",
+   "date": "2024-08-12T21:47:37",
+   "date_unixtime": "1723486657",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598502,
+   "type": "message",
+   "date": "2024-08-12T21:47:37",
+   "date_unixtime": "1723486657",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598504,
+   "type": "message",
+   "date": "2024-08-12T21:47:56",
+   "date_unixtime": "1723486676",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": "chera",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "chera"
+    }
+   ]
+  },
+  {
+   "id": 598505,
+   "type": "message",
+   "date": "2024-08-12T21:48:00",
+   "date_unixtime": "1723486680",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598506,
+   "type": "message",
+   "date": "2024-08-12T21:48:00",
+   "date_unixtime": "1723486680",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598507,
+   "type": "message",
+   "date": "2024-08-12T21:48:00",
+   "date_unixtime": "1723486680",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598510,
+   "type": "message",
+   "date": "2024-08-12T21:49:47",
+   "date_unixtime": "1723486787",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598511,
+   "type": "message",
+   "date": "2024-08-12T21:49:47",
+   "date_unixtime": "1723486787",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598512,
+   "type": "message",
+   "date": "2024-08-12T21:49:47",
+   "date_unixtime": "1723486787",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598514,
+   "type": "message",
+   "date": "2024-08-12T21:50:37",
+   "date_unixtime": "1723486837",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598515,
+   "type": "message",
+   "date": "2024-08-12T21:50:37",
+   "date_unixtime": "1723486837",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598516,
+   "type": "message",
+   "date": "2024-08-12T21:50:37",
+   "date_unixtime": "1723486837",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598517,
+   "type": "message",
+   "date": "2024-08-12T21:50:37",
+   "date_unixtime": "1723486837",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598518,
+   "type": "message",
+   "date": "2024-08-12T21:50:37",
+   "date_unixtime": "1723486837",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598519,
+   "type": "message",
+   "date": "2024-08-12T21:50:37",
+   "date_unixtime": "1723486837",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598522,
+   "type": "message",
+   "date": "2024-08-12T21:50:58",
+   "date_unixtime": "1723486858",
+   "from": "Sad bHnM",
+   "from_id": "user108520581",
+   "text": "tst",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "tst"
+    }
+   ]
+  },
+  {
+   "id": 598523,
+   "type": "message",
+   "date": "2024-08-12T21:51:07",
+   "date_unixtime": "1723486867",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "04. whoa (mind in awe).mp3",
+   "media_type": "audio_file",
+   "performer": "XXXTENTACION",
+   "title": "whoa (mind in awe)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    " 💫"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Subbass"
+    },
+    {
+     "type": "plain",
+     "text": " 💫"
+    }
+   ]
+  },
+  {
+   "id": 598524,
+   "type": "message",
+   "date": "2024-08-12T21:51:07",
+   "date_unixtime": "1723486867",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598525,
+   "type": "message",
+   "date": "2024-08-12T21:51:07",
+   "date_unixtime": "1723486867",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "file": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "file_name": "1|1 - Big Dawgs - Hanumankind  Kalmi (320).mp3",
+   "thumbnail": "(File exceeds maximum size. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Hanumankind & Kalmi",
+   "title": "Big Dawgs",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 190,
+   "text": [
+    "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n",
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    "\n\n\n⚡",
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    "⚡"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ترند جدید این روزا 🔥⚡\nشاید باورتون نشه ولی یارو هندیه 😁\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#Trend"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n⚡"
+    },
+    {
+     "type": "mention",
+     "text": "@Mehdiw_vibe"
+    },
+    {
+     "type": "plain",
+     "text": "⚡"
+    }
+   ]
+  },
+  {
+   "id": 598529,
+   "type": "message",
+   "date": "2024-08-12T21:54:03",
+   "date_unixtime": "1723487043",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Sad bHnM",
+   "text": "tst",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "tst"
+    }
+   ]
+  },
+  {
+   "id": 598530,
+   "type": "message",
+   "date": "2024-08-12T21:54:56",
+   "date_unixtime": "1723487096",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "slm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "slm"
+    }
+   ]
+  },
+  {
+   "id": 598531,
+   "type": "message",
+   "date": "2024-08-12T21:55:16",
+   "date_unixtime": "1723487116",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Personalmusic",
+   "text": "khodaya shokret",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "khodaya shokret"
+    }
+   ]
+  },
+  {
+   "id": 598532,
+   "type": "message",
+   "date": "2024-08-12T21:56:45",
+   "date_unixtime": "1723487205",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Sad bHnM",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/start"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/start"
+    }
+   ]
+  },
+  {
+   "id": 598533,
+   "type": "message",
+   "date": "2024-08-12T21:57:22",
+   "date_unixtime": "1723487242",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Sad bHnM",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/s"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/s"
+    }
+   ]
+  },
+  {
+   "id": 598534,
+   "type": "message",
+   "date": "2024-08-12T21:57:56",
+   "date_unixtime": "1723487276",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Sad bHnM",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/caps"
+    },
+    " sl"
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/caps"
+    },
+    {
+     "type": "plain",
+     "text": " sl"
+    }
+   ]
+  },
+  {
+   "id": 598535,
+   "type": "message",
+   "date": "2024-08-12T21:58:35",
+   "date_unixtime": "1723487315",
+   "from": "fakyoos",
+   "from_id": "user7050361436",
+   "forwarded_from": "Sad bHnM",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/echo"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/echo"
+    }
+   ]
+  }
+ ]
+}

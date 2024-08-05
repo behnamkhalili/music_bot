@@ -1,21 +1,25 @@
 from telethon import TelegramClient
 
-# Remember to use your own values from my.telegram.org!
-api_id = 12345
-api_hash = '0123456789abcdef0123456789abcdef'
+from dotenv import load_dotenv
+import os
+
+import logging
+
+load_dotenv()
+api_id = int(os.getenv('API_ID'))
+api_hash = os.getenv('API_HASH')
+bot_token = os.getenv('BOT_TOKEN')
+
 client = TelegramClient('anon', api_id, api_hash)
 
-async def main():
-    # Getting information about yourself
-    me = await client.get_me()
+logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
+                    level=logging.WARNING)
 
-    # "me" is a user object. You can pretty-print
-    # any Telegram object with the "stringify" method:
+
+async def main():
+    me = await client.get_me()
     print(me.stringify())
 
-    # When you print something, you see a representation of it.
-    # You can access all attributes of Telegram objects with
-    # the dot operator. For example, to get the username:
     username = me.username
     print(username)
     print(me.phone)
@@ -24,16 +28,10 @@ async def main():
     async for dialog in client.iter_dialogs():
         print(dialog.name, 'has ID', dialog.id)
 
-    # You can send messages to yourself...
     await client.send_message('me', 'Hello, myself!')
-    # ...to some chat ID
-    await client.send_message(-100123456, 'Hello, group!')
-    # ...to your contacts
-    await client.send_message('+34600123123', 'Hello, friend!')
-    # ...or even to any username
-    await client.send_message('username', 'Testing Telethon!')
+    await client.send_message('Sad bHnM', 'Hello, friend!')
+    await client.send_message(-1002173884915, 'Testing Telethon!')
 
-    # You can, of course, use markdown in your messages:
     message = await client.send_message(
         'me',
         'This message has **bold**, `code`, __italics__ and '
@@ -43,12 +41,11 @@ async def main():
 
     # Sending a message returns the sent message object, which you can use
     print(message.raw_text)
-
     # You can reply to messages directly if you have a message object
     await message.reply('Cool!')
 
     # Or send files, songs, documents, albums...
-    await client.send_file('me', '/home/me/Pictures/holidays.jpg')
+    # await client.send_file('me', '/home/me/Pictures/holidays.jpg')
 
     # You can print the message history of any chat:
     async for message in client.iter_messages('me'):
@@ -59,6 +56,12 @@ async def main():
         if message.photo:
             path = await message.download_media()
             print('File saved to', path)  # printed after download is done
+
+
+async def search():
+    last_message = (await client.get_messages(-1001421875046, 1))[0]
+    print(last_message.document.attributes[0].performer, last_message.text)
+
 
 with client:
     client.loop.run_until_complete(main())
