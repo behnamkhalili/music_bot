@@ -344,3 +344,7 @@ $RECYCLE.BIN/
 *.lnk
 
 *.session
+
+.idea
+
+*.json
