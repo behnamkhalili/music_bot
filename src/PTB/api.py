@@ -10,8 +10,8 @@ base_url = f"https://api.telegram.org/bot{TOKEN}/"
 method = "forwardMessages"
 parameters = {
     "chat_id": "-4181556113",
-    "from_chat_id": "-1001234468921",
-    "message_ids": "[1158, 1159, 2000]"
+    "from_chat_id": "1860278436",
+    "message_ids": "[610, 611, 615]"
 }
 
 resp = requests.get(base_url + method, data=parameters)
