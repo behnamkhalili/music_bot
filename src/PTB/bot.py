@@ -11,7 +11,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-KEY, COUNT, QUERY = range(3)
+KEY, QUERY, COUNT = range(3)
 
 
 async def find(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
@@ -40,10 +40,23 @@ async def key(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 
     await update.message.reply_text(
         f'<b>You selected the category {update.message.text}.\n'
-        f'How many results you want to recive?</b>',
+        f'Feel free to say what you are looking for.</b>',
         parse_mode='HTML',
         reply_markup=ReplyKeyboardRemove(),
     )
+
+    return QUERY
+
+
+async def query(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
+
+    context.user_data['query'] = update.message.text
+    logger.info('query: %s', context.user_data['query'])
+
+    await update.message.reply_text('<b>Query noted.\n</b>'
+                                    f'<b>How many results do you want to receive?</b>',
+                                    parse_mode='HTML')
+
     keyboard = [
         [InlineKeyboardButton('5', callback_data=5)],
         [InlineKeyboardButton('10', callback_data=10)],
@@ -64,21 +77,10 @@ async def count(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     logger.info('count: %s', context.user_data['count'])
 
     await query.edit_message_text(
-        f'<b>Your playlist will contain exactly {query.data} musics.\nFeel free to say what are you looking for</b>',
+        f'<b>Your playlist will contain exactly {query.data} track.\n'
+        f'Next messages are the result for matching musics.</b>',
         parse_mode='HTML'
     )
-
-    return QUERY
-
-
-async def query(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
-
-    context.user_data['query'] = update.message.text
-    logger.info('query: %s', context.user_data['query'])
-
-    await update.message.reply_text('<b>query noted.\n'
-                                    'Next messages are the result for matching musics.</b>',
-                                    parse_mode='HTML')
 
     find_fwrd, find_txt = result(
         context.user_data['key'],
@@ -98,7 +100,25 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await context.bot.send_message(chat_id=update.effective_chat.id, text="Send /find to make your delighted playlist")
+    await context.bot.send_message(chat_id=update.effective_chat.id,
+                                   text="Send /find to make your delighted playlist.\n"
+                                        "Also for more information try /info.")
+
+
+async def info(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await context.bot.send_message(chat_id=update.effective_chat.id,
+                                   text="\tThis bot can search musics you want to have it all in one chat.\n"
+                                        "\tFor this purpose you should first select you want to search by the title "
+                                        "of music or name of the artist, the type the text for bot to search it for "
+                                        "you and last step is to choose how many songs you want to recive.\n"
+                                        "\tThe source of bot searching is 4 music channel as below:\n"
+                                        "Bloop\n"
+                                        "Ezify\n"
+                                        "Playlist olur gibi\n"
+                                        "نه مامان بیرون یچی خوردم گشنم نیس\n"
+                                        "\tMaybe someday the number of channels or functionalities increases\n"
+                                        "\tTo strat the process tap /find"
+                                        "")
 
 
 async def echo(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -112,7 +132,7 @@ async def caps(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def unknown(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(chat_id=update.effective_chat.id,
-                                   text="Sorry, I didn't understand that command. Use /help or /start to continue")
+                                   text="Sorry, I didn't understand that command. Use /info or /start to continue")
 
 
 if __name__ == '__main__':
@@ -122,18 +142,20 @@ if __name__ == '__main__':
         entry_points=[CommandHandler('find', find)],
         states={
             KEY: [MessageHandler(filters.TEXT & ~filters.COMMAND, key)],
-            COUNT: [CallbackQueryHandler(count)],
-            QUERY: [MessageHandler(filters.TEXT & ~filters.COMMAND, query)]
+            QUERY: [MessageHandler(filters.TEXT & ~filters.COMMAND, query)],
+            COUNT: [CallbackQueryHandler(count)]
         },
         fallbacks=[CommandHandler('cancel', cancel)],
     )
     start_handler = CommandHandler('start', start)
+    help_handler = CommandHandler('info', info)
     caps_handler = CommandHandler('caps', caps)
     echo_handler = MessageHandler(filters.TEXT & (~filters.COMMAND), echo)
     unknown_handler = MessageHandler(filters.COMMAND, unknown)
 
     application.add_handler(conv_handler)
     application.add_handler(start_handler)
+    application.add_handler(help_handler)
     application.add_handler(echo_handler)
     application.add_handler(caps_handler)
     application.add_handler(unknown_handler)

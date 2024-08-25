@@ -1,19 +1,20 @@
-import requests
-import os
-from dotenv import load_dotenv
+import json
+from fastapi import FastAPI, Body
 
-load_dotenv()
-TOKEN = os.getenv('BOT_TOKEN')
+from botModule import *
 
-base_url = f"https://api.telegram.org/bot{TOKEN}/"
+app = FastAPI()
 
-method = "forwardMessages"
-parameters = {
-    "chat_id": "-4181556113",
-    "from_chat_id": "1860278436",
-    "message_ids": "[610, 611, 615]"
-}
 
-resp = requests.get(base_url + method, data=parameters)
+@app.post("/discordreq")
+async def find(dis_req: Body(...)):
+    try:
+        data = json.loads(dis_req)
+        sample = ["title", "3", "No me", "-4181556113"]
+        find_fwrd, find_txt = result(sample[0], sample[1], sample[2], sample[3])
 
-print(resp.json())
+        return "done"
+
+    except Exception as e:
+        # Handle potential errors and return a suitable response
+        return {"error": str(e)}, 500
